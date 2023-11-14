@@ -5,13 +5,14 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://www.lifebits.asia/' }
+  //  { title: '欢迎来到我的博客', url: 'https://www.lifebits.asia/ }
+    { title: '欢迎来到我的博客' }
   ],
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '记录',
   HEO_HERO_TITLE_2: '思维和认知',
-  HEO_HERO_TITLE_3: 'life.asia',
+  HEO_HERO_TITLE_3: 'lifebits.asia',
   HEO_HERO_TITLE_4: 'travis',
   HEO_HERO_TITLE_5: '热爱并享受生活',
   HEO_HERO_TITLE_LINK: 'https://www.lifebits.asia/daily_article',
